@@ -8,7 +8,7 @@ public class Test {
 		
 		System.out.println("Selenium");
 		
-		
+		System.out.println("Completed GitHub configration");
 		
 		
 		
